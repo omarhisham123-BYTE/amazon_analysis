@@ -1,8 +1,7 @@
 # 📦 Amazon Sales & Customer Reviews Analysis
 
 ## 📊 Dashboard Overview
-![Amazon Dashboard](power%20bi%20amazon.png)
-
+![Amazon Dashboard](amazon.png)
 
 ## 📌 Project Description
 This project focuses on analyzing Amazon's sales data and customer reviews. I used **SQL** for database structuring, **Python** for data processing, and **Power BI** for the final visualization.
