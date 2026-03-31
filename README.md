@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Overview
 ![Amazon Power BI Dashboard](POWER%20bi%20amazon.pbix) 
-*(Note: If the image above doesn't load, make sure to upload a PNG/JPG version of the dashboard)*
+
 
 ## 📌 Project Description
 This project focuses on analyzing Amazon's sales data and customer reviews. I used **SQL** for database structuring, **Python** for data processing, and **Power BI** for the final visualization.
