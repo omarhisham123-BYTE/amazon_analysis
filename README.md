@@ -1,7 +1,7 @@
 # 📦 Amazon Sales & Customer Reviews Analysis
 
 ## 📊 Dashboard Overview
-![Amazon Power BI Dashboard](POWER%20bi%20amazon.pbix) 
+![Amazon Dashboard](amazon_dashboard.png)
 
 
 ## 📌 Project Description
