@@ -1,7 +1,7 @@
 # 📦 Amazon Sales & Customer Reviews Analysis
 
 ## 📊 Dashboard Overview
-![Amazon Dashboard](amazon_dashboard.png)
+![Amazon Power BI Dashboard](power%20bi%20sales%20github.png) 
 
 
 ## 📌 Project Description
@@ -9,7 +9,7 @@ This project focuses on analyzing Amazon's sales data and customer reviews. I us
 
 ## 🛠 Tools Used
 - **SQL:** Data querying and schema design.
-- **Python:** Data cleaning and analysis.
+- **Python (Pandas):** Data cleaning and analysis.
 - **Power BI:** Interactive dashboarding.
 
 ## 📁 Files in this Repo
