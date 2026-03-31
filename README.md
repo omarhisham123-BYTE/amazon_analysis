@@ -1,7 +1,7 @@
 # 📦 Amazon Sales & Customer Reviews Analysis
 
 ## 📊 Dashboard Overview
-![Amazon Power BI Dashboard](power%20bi%20sales%20github.png) 
+![Amazon Dashboard](power%20bi%20amazon.png)
 
 
 ## 📌 Project Description
